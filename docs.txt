@@ -1,0 +1,40 @@
+Const - ham khai bao 
+async - Ham dong bo 
+Console - Console.log(data )
+
+
+
+Ham Dat Bien- Ham khai bao 
+// 
+Let + thuoctinh = "value"
+Const + thuoc tinh = "value" 
+Let + thuoc tinh = 'string'
+Const + thuoc tinh = 'string'
+??
+Ham In 
+//
+Console.log(value)
+Word + ""
+Variable 
+//
+1 Internal
+2 External 
+3 Inline
+//
+function + name() {
+    //
+    return + value
+    //
+}
+//lenh khai bao function 
+name()
+
+name is variable 
+i=0 
+STT 1 2 3 4 5 6 7 8 
+i   0 1 2 3 4 5 6 7 
++= cong tat ca sum 
+100 
+
+0 < x <99 ; x >=90
+90 < x <99
